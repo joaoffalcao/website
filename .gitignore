@@ -1,0 +1,17 @@
+# IDEs: IntelliJ IDEA and WebStorm
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Build: Dependencies and output files
+bower_components/
+docs/
+node_modules/
+reports/
+temp/
+
+# Other: Miscellaneous files
+.DS_Store
+*.local.*
+*.log

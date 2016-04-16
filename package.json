@@ -1,0 +1,20 @@
+{
+  "name": "website",
+  "version": "0.0.0",
+  "description": "[Add application description]",
+  "angularName": "bfWebsite",
+  "repository": {
+    "type": "git",
+    "url": "git@gitlab.app.betfair:exchange-components/website.git"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "angular": "1.4.9",
+    "ng-extensions": "0.30.2"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "bf-gulp-tasks": "^1.0.0",
+    "yargs": "^3.32.0"
+  }
+}
